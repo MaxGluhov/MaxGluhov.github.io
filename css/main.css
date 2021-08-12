@@ -1,0 +1,78 @@
+body {
+	background: #0D0D0D;
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	color: white;
+}
+
+.intro {
+	position: absolute;
+	top: -30px;
+	width: 100%;
+	height: 100vh;
+}
+
+.max {
+	width: 726px;
+	font-size: 96px;
+	position: absolute;
+	top: 300px;
+	left: 327px;
+	line-height: 120%;
+}
+
+.designer {
+	font-size: 24px;
+	font-weight: 300;
+	position: absolute;
+	top: 310px;
+	left: 333px;
+}
+
+.me {
+	width: 518px;
+	height: 518px;
+	position: absolute;
+	top: 272px;
+	left: 1105px;
+	transition: top 0.3s;
+}
+
+.me:hover {
+	top: 260px;
+}
+
+.btn_portfolio {
+	font-size: 18px;
+	font-weight: 400;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	line-height: 44px;
+
+	width: 227px;
+	height: 44px;
+	position: absolute;
+	top: 645px;
+	left: 337px;
+	border: 1px solid white;
+
+	transition: background .05s linear, color .05s linear;
+}
+
+.btn_portfolio:hover {
+    background: #5767F3;
+    color: #ffffff;
+	border-color: #5767F3;
+}
+
+.btn_telegram {
+	width: 44px;
+	height: 44px;
+	position: absolute;
+	top: 645px;
+	left: 589px;
+	border: 1px solid white;
+	text-align: center;
+	line-height: 51px;	
+}
