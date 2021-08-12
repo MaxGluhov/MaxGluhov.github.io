@@ -66,7 +66,7 @@ body {
 	border-color: #5767F3;
 }
 
-.btn_telegram {
+.btn_telegram {	
 	width: 44px;
 	height: 44px;
 	position: absolute;
@@ -74,5 +74,74 @@ body {
 	left: 589px;
 	border: 1px solid white;
 	text-align: center;
-	line-height: 51px;	
+	line-height: 51px;
+	
+	transition: linear .05s;
+}
+
+.btn_telegram:hover {
+	background: #5767F3;
+	border-color: #5767F3;
+}
+
+.btn_instagram {	
+	width: 44px;
+	height: 44px;
+	position: absolute;
+	top: 645px;
+	left: 645px;
+	border: 1px solid white;
+	text-align: center;
+	line-height: 57px;
+	
+	transition: linear .05s;
+}
+
+.btn_instagram:hover {
+	background: #5767F3;
+	border-color: #5767F3;
+}
+
+.btn_behance {	
+	width: 44px;
+	height: 44px;
+	position: absolute;
+	top: 645px;
+	left: 701px;
+	border: 1px solid white;
+	text-align: center;
+	line-height: 46px;
+	
+	transition: linear .05s;
+}
+
+.btn_behance:hover {
+	background: #5767F3;
+	border-color: #5767F3;
+}
+
+.btn_vk {	
+	width: 44px;
+	height: 44px;
+	position: absolute;
+	top: 645px;
+	left: 757px;
+	border: 1px solid white;
+	text-align: center;
+	line-height: 47px;
+	
+	transition: linear .05s;
+}
+
+.btn_vk:hover {
+	background: #5767F3;
+	border-color: #5767F3;
+}
+
+.arrow {
+	width: 18px;
+	height: 6px;
+	left: 951px;
+	top: 940px;
+	position: absolute;
 }
