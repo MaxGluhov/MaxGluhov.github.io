@@ -328,3 +328,216 @@ body {
 	top: 110px;
 	left: 15px;
 }
+
+.third_screen {	
+	background-image: url('../img/project_osfabias.jpg');
+	position: absolute;
+	top: 2048px;
+	left: 0px;
+	width: 100%;
+	height: 1024px;
+	color: white;
+}
+
+.tools {
+	font-size: 18px;
+	font-weight: 400;
+	color: #5767F3;
+
+	position: absolute;
+	top: 283px;
+	left: 416px;
+}
+
+.programms {
+	font-size: 36px;
+	font-weight: 700;
+
+	position: absolute;
+	top: 305px;
+	left: 415px;
+}
+
+.photoshop {
+	position: absolute;
+	top: 491px;
+	left: 449px;
+}
+
+.figma {
+	position: absolute;
+	top: 503px;
+	left: 768px;
+}
+
+.tilda {
+	position: absolute;
+	top: 503px;
+	left: 1066px;
+}
+
+.after_effects {
+	position: absolute;
+	top: 503px;
+	left: 1373px;
+}
+
+.photoshop_main {
+	font-size: 24px;
+	font-weight: 700;
+
+	position: absolute;
+	top: 605px;
+	left: 442px;
+}
+
+.figma_main {
+	font-size: 24px;
+	font-weight: 700;
+
+	position: absolute;
+	top: 605px;
+	left: 774px;
+}
+
+.tilda_main {
+	font-size: 24px;
+	font-weight: 700;
+
+	position: absolute;
+	top: 605px;
+	left: 1084px;
+}
+
+.after_effects_main {
+	font-size: 24px;
+	font-weight: 700;
+
+	position: absolute;
+	top: 605px;
+	left: 1345px;
+}
+
+.photoshop_list {
+	font-size: 18px;
+	font-weight: 300;
+
+	width: 238px;
+	height: 42px;
+
+	position: absolute;
+	top: 661px;
+	left: 375px;
+}
+
+.figma_list {
+	font-size: 18px;
+	font-weight: 300;
+
+	width: 238px;
+	height: 42px;
+
+	position: absolute;
+	top: 661px;
+	left: 695px;
+}
+
+.tilda_list {
+	font-size: 18px;
+	font-weight: 300;
+
+	width: 238px;
+	height: 42px;
+
+	position: absolute;
+	top: 661px;
+	left: 1025px;
+}
+
+.after_list {
+	font-size: 18px;
+	font-weight: 300;
+
+	width: 200px;
+	height: 42px;
+
+	position: absolute;
+	top: 661px;
+	left: 1296px;
+}
+
+.photoshop_bar_text {
+	font-size: 13px;
+	font-weight: 300;
+	color: #2F2F2F;
+
+	width: 200px;
+	height: 42px;
+
+	position: absolute;
+	top: 745px;
+	left: 444px;
+}
+
+.figma_bar_text {
+	font-size: 13px;
+	font-weight: 300;
+	color: #2F2F2F;
+
+	width: 200px;
+	height: 42px;
+
+	position: absolute;
+	top: 745px;
+	left: 755px;
+}
+
+.tilda_bar_text {
+	font-size: 13px;
+	font-weight: 300;
+	color: #2F2F2F;
+
+	width: 200px;
+	height: 42px;
+
+	position: absolute;
+	top: 745px;
+	left: 1063px;
+}
+
+.after_bar_text {
+	font-size: 13px;
+	font-weight: 300;
+	color: #2F2F2F;
+
+	width: 200px;
+	height: 42px;
+
+	position: absolute;
+	top: 745px;
+	left: 1361px;
+}
+
+.photoshop_bar {
+	position: absolute;
+	top: 780px;
+	left: 414px;
+}
+
+.figma_bar {
+	position: absolute;
+	top: 780px;
+	left: 725px;
+}
+
+.tilda_bar {
+	position: absolute;
+	top: 780px;
+	left: 1033px;
+}
+
+.after_bar {
+	position: absolute;
+	top: 780px;
+	left: 1332px;
+}
